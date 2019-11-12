@@ -1,9 +1,12 @@
 # Elm Calendar
 
 Welcome! This is a calendar app using [Elm](http://elm-lang.org), a delightful, functional language
-for reliable webapps. We're building this together at [Frontend
+for reliable webapps. We're building this together with the entire group at [Frontend
 Awesome!](https://www.meetup.com/Gainesville-Front-End-Dev-Meetup/), Gainesville's frontend meetup
 group.
+
+(Note that "we" is [@MainShayne233](https://github.com/MainShayne233) and
+[@JasonMFry](https://github.com/JasonMFry).)
 
 ## Notes
 

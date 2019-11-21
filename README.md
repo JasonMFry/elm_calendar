@@ -16,7 +16,12 @@ better learning environment.
 
 ### Getting Started
 
+1. Start working through the [elm guide](https://guide.elm-lang.org) together:
+     1. [Core Language](https://guide.elm-lang.org/core_language.html)
+     1. Optional: [Elm Architecture](https://guide.elm-lang.org/core_language.html)
+     1. Optional: [Buttons](https://guide.elm-lang.org/architecture/buttons.html)
+     1. Review [Next Steps](https://guide.elm-lang.org/next_steps.html) very quickly.
 1. Navigate to the elm guide to [install elm](https://guide.elm-lang.org/install/elm.html) and get
    started.
-2. Learn about initializing elm programs [here](https://guide.elm-lang.org/interop/).
-3. Start working through the [elm guide](https://guide.elm-lang.org) together.
+1. Learn about initializing elm programs [here](https://guide.elm-lang.org/interop/).
+
